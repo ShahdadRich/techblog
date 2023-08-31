@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:tech_blog/gen/assets.gen.dart';
+import 'package:tech_blog/models/fake_data.dart';
 import 'colors.dart';
-import 'gen/assets.gen.dart';
-import 'model/fake_data.dart';
 
 // ignore: camel_case_types
 class techBlogDivider extends StatelessWidget {

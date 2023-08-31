@@ -1,11 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:tech_blog/component/my_component.dart';
+import 'package:tech_blog/component/strings.dart';
 import 'package:tech_blog/gen/assets.gen.dart';
-import 'package:tech_blog/model/fake_data.dart';
-import 'package:tech_blog/colors.dart';
-import 'package:tech_blog/strings.dart';
-
-import '../my_component.dart';
+import 'package:tech_blog/models/fake_data.dart';
+import 'package:tech_blog/component/colors.dart';
 
 // home scree (qesmate scrool shode)
 class homeScreen extends StatelessWidget {

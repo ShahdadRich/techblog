@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:tech_blog/colors.dart';
+import 'package:tech_blog/component/my_component.dart';
+import 'package:tech_blog/component/strings.dart';
 import 'package:tech_blog/gen/assets.gen.dart';
-import 'package:tech_blog/my_component.dart';
-import 'package:tech_blog/strings.dart';
+import 'package:tech_blog/component/colors.dart';
 
 // home scree (qesmate scrool shode)
 class profileScreen extends StatelessWidget {

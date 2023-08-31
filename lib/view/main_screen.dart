@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:tech_blog/colors.dart';
+import 'package:tech_blog/component/colors.dart';
 import 'package:tech_blog/view/home_screen_scrool.dart';
 import 'package:tech_blog/view/porofile_screen.dart';
 import '../gen/assets.gen.dart';
